@@ -33,7 +33,7 @@
 
 
 
-### My Favorite Game 
+# My Favorite Game 
 
 ![Product Name Screen Shot][pict-wall]
 
