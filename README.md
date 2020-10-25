@@ -13,9 +13,9 @@
     An awesome README template to jumpstart your projects!
   <p align="center">
     
-  <img src="img/MEME1.png" width="300px" align="left"> 
-  <img src="img/MEME2.png" width="300px" align="center"> 
-  <img src="img/MEME3.png" width="300px" align="right"> 
+  <img src="img/MEME1.png" width="200px" align="left"> 
+  <img src="img/MEME2.png" width="200px" align="center"> 
+  <img src="img/MEME3.png" width="200px" align="right"> 
     
   <p align="center">
     <a href="https://www.instagram.com/doniindira/?hl=en"><strong>Check My Instagram»</strong></a>
