@@ -1,69 +1,53 @@
-# Welcome To My Github Page
+# Hi there, I'm Doni Indira
 
+## I'm a Developer, and Student!!
 
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Learn more data science
+- ⚡ Fun fact: I love to draw and play guitar (especially fingerstyle guitar cover)
 
+### Connect with me:
 
-<!-- PROJECT LOGO -->
+[![website](./img/twitter-light.svg)](https://twitter.com/donnn_i#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/donnn_i#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/https://linkedin.com/in/doni-indira-putra-169512206#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/https://linkedin.com/in/doni-indira-putra-169512206#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/doniindira#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/doniindira#gh-dark-mode-only)
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> -->
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> -->
+<!-- <img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" /> -->
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> -->
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+
 <br />
-<p align="center">
-
-  <h3 align="center">My-Landing-Page</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-  <p align="center">
-    
-  <img src="img/MEME1.png" width="200px" align="left"> 
-  <img src="img/MEME2.png" width="200px" align="center"> 
-  <img src="img/MEME3.png" width="200px" align="right"> 
-    
-  <p align="center">
-    <a href="https://www.instagram.com/doniindira/?hl=en"><strong>Check My Instagram»</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-    </p>
-  </p>
-</p>
+<br />
 
 
 
-# My Favorite Game 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-![Product Name Screen Shot][pict-wall]
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=doniindira&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-* The Alchemist Code  = [Link](https://play.google.com/store/apps/details?id=sg.gumi.alchemistww&hl=en&gl=US)
-* Genshin Impact      = [Link](https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&hl=en&gl=US)
+</details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[pict-wall]: img/NicePng_nba-2k18-png_923535.png
-[wall-1]: img/MEME1.png
-[wall-2]: img/MEME2.png
-[wall-3]: img/MEME3.png
-[wall-4]: img/MEME4.png
+[twitter]: https://twitter.com/donnn_i
+<!-- [youtube]: https://youtube.com/<ID> -->
+[instagram]: https://instagram.com/doniindira
+[linkedin]: https://linkedin.com/in/doni-indira-putra-169512206
